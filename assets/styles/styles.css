@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(228, 243, 243);
+}
+
+/*
+
+Los estilos se recomienda que se agreguen en orden de arriba hacia abajo
+
+*/
+
+h1{
+    color: aqua;
+}
+
+h2{
+    color: brown;
+}
+
+/* clase */
+.micolorPersonalizadoParaMiH2 {
+    color: green;
+}
+
+img {
+    width: 30%; height: auto;
+}
+
+img:hover{
+    transform: scale(1.1);
+}
